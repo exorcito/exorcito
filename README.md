@@ -2,7 +2,7 @@
 
 My name is Alberto, i´m from Spain and i´m Architect Cloud/DevOps    
   
-* 🔭 Currently working for [@alice-biometrics](https://github.com/alice-biometrics) as Architect Cloud/DevOps
+* 🔭 Currently working for [@alice-biometrics](https://github.com/alice-biometrics) as Head of Infra
 
 ## Skills
 
